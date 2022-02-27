@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The division of the county of Middlesex into four classicall presbyteries. Together with the names of the ministers and others fit to be of each classis. Approved of by the committee of Lords and Commons appointed thereunto by ordinance of both houses of Parliaament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81575</idno>
+            <idno type="STC">Wing D1739</idno>
+            <idno type="STC">ESTC R171791</idno>
+            <idno type="EEBO-CITATION">47682888</idno>
+            <idno type="OCLC">ocm 47682888</idno>
+            <idno type="VID">172844</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172844)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2652:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The division of the county of Middlesex into four classicall presbyteries. Together with the names of the ministers and others fit to be of each classis. Approved of by the committee of Lords and Commons appointed thereunto by ordinance of both houses of Parliaament.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Miller,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains contemporary ms. letter, bound between p. 2 and p. 3.</note>
+                  <note>Imperfect: cropped.</note>
+                  <note>Reproduction of original in: Birmingham Central Reference Library (Birmingham, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  England --  Middlesex --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+               <term>Middlesex (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172844:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <pb facs="tcp:172844:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <p>THE DIVISION of the County of MIDDLESEX INTO FOUR Claſſicall Presbyteries.</p>
+            <p>TOGETHER With the Names of the Miniſters and others fit to be of each Claſſis.</p>
+            <p>Approved of by the Committee of LORDS and COMMONS appointed thereunto by Ordinance of both Houſes of PARLIAMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Miller,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172844:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 116 -->
+            <pb n="1" facs="tcp:172844:2"/>
+            <!-- PDF PAGE 116 -->
+            <head>THE DIVISION OF THE County of Middleſex INTO Four Claſſicall Presbyteries.</head>
+            <head type="sub">
+               <hi>Middleſex.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to the Letter of this Honourable Houſe of the 27. of <hi>Septem.</hi> 1645. We the Com<g ref="char:EOLhyphen"/>mittee for the County of <hi>Mid<g ref="char:EOLhyphen"/>dleſex,</hi> after Advice had with godly Miniſters and others, have thought fit to divide that part of the Coun<g ref="char:EOLhyphen"/>ty of <hi>Middleſex,</hi> which is not already within the Province of <hi>London,</hi> into four Claſſicall Presby<g ref="char:EOLhyphen"/>teries (humbly conceiving it to be enough for
+<pb n="2" facs="tcp:172844:3"/>
+               <!-- PDF PAGE 117 -->one convenient Prouince) which we doe here humbly certifie to this Honourable Houſe, to<g ref="char:EOLhyphen"/>gether with the names of ſuch Miniſters and o<g ref="char:EOLhyphen"/>thers, as we conceive fit to be of each Claſſis, as followeth, <hi>viz.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>
+                  <hi>The firſt Claſsis called</hi> Gore <hi>and</hi> Edmonton <hi>Claſsis to contain.</hi>
+               </head>
+               <p>Harrow, Pynnour, Hendon, Stanmore <hi>magna,</hi> Stanmore <hi>parva,</hi> Kingsbury, Edgware, Wilſdon, Finchly, Fryan-Barnet, Edmunton, Enfield, Tot<g ref="char:EOLhyphen"/>tenham, Southmims, Hadley.</p>
+               <p>
+                  <hi>Miniſters fit to be of the firſt Claſſis.</hi>
+               </p>
+               <p>M. <hi>Warham</hi> of Hendon, M. <hi>Perkins</hi> of Wilſden, M. <hi>Pakeman</hi> of Harrow, M. <hi>Tomlyns</hi> of Edgware, M. <hi>Hicks</hi> of Tottenham, M. <hi>Albret</hi> of Fryan Bar<g ref="char:EOLhyphen"/>net.</p>
+               <p>
+                  <hi>Others fit to be of the first Claſsis.</hi>
+               </p>
+               <p>Sir <hi>Edward Barkham</hi> Knight and Baronet, <hi>Iohn Huxley</hi> 
+                  <abbr>Eſq</abbr>. M. <hi>Rob. Moreton,</hi> M. <hi>Iohn Franklyn,</hi> M. <hi>Rob. Webb.</hi> M. <hi>Tho. Fletcher,</hi> M. <hi>Stephen Ewer,</hi> M. <hi>Iohn Grey. Onſlow Winch</hi> 
+                  <abbr>Eſq</abbr>. M. <hi>Winſtanly.</hi> M. <hi>Daniel Waldoe.</hi> M. <hi>Iohn Alford.</hi> M. <hi>William Green<g ref="char:EOLhyphen"/>hill of Greenhill.</hi> M. <hi>Paul Nicoll. Iohn Halley, Iohn Finch, Ezekiel Tanner, Richard Owen, Henry Haley, Tho. Hill, Will. Peters, Rob. Birt, Iohn Wiſe, Arthur
+<pb facs="tcp:172844:3" rendition="simple:additions"/>
+                     <!-- PDF PAGE 117 -->
+                     <pb n="2" facs="tcp:172844:4"/>
+                     <!-- PDF PAGE 118 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:172844:4" rendition="simple:additions"/>
+                     <!-- PDF PAGE 118 -->
+                     <pb facs="tcp:172844:5"/>
+                     <!-- PDF PAGE 119 -->
+                     <pb facs="tcp:172844:5" rendition="simple:additions"/>
+                     <!-- PDF PAGE 119 -->
+                     <pb facs="tcp:172844:6"/>
+                     <!-- PDF PAGE 120 -->
+                     <pb n="3" facs="tcp:172844:6" rendition="simple:additions"/>
+                     <!-- PDF PAGE 120 -->Nicoll, Tho. Smith</hi> of <hi>Roxey, William VVarren, Mi<g ref="char:EOLhyphen"/>chael Nicholl, Tho. Bell.</hi>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>The ſecond Claſſis called</hi> Oſaulſton <hi>Claſſis to contain</hi>
+               </head>
+               <p>Hornſey, Highgate, Kentiſh-Town, Hampſted, Marybone, Paddington, Ealing, Acton, Cheſ<g ref="char:EOLhyphen"/>wick, Fulham Hamerſmith, Kenſington, Chelſey.</p>
+               <p>
+                  <hi>Miniſters fit to be of the ſecond Claſſis.</hi>
+               </p>
+               <p>M. <hi>Iohn Sprint</hi> of Hampſted, M. <hi>Tho. Hodges</hi> of Kenſington. M. <hi>Adoniram Bifield</hi> of Fulham. M. <hi>Pa<g ref="char:EOLhyphen"/>trick Seymour</hi> of Cheſwick. M. <hi>Iohn Nye</hi> of Acton, M. <hi>Maudit</hi> of Hamerſmith.</p>
+               <p>
+                  <hi>Others fit to be of the ſecond Claſſis.</hi>
+               </p>
+               <p>Sir <hi>Rich. Sprignell</hi> Baronet, Sir <hi>Iohn Throughgood</hi> Knight. M. <hi>Henry Proctor,</hi> M. <hi>Ric. VVilcocks,</hi> M. <hi>Ioh. Arnold, VVill. King, M. Michael Marlow, M. Daniel Charlwood, M. Iohn Cleaver,</hi> M <hi>VVil. Arnold,</hi> M. <hi>VVil. Stisteed,</hi> Capt. <hi>Rich. Blackwell, VVil. Finch, Nicolas Vincent,</hi> Capt. <hi>Benj. Holdyn,</hi> M. <hi>Grigg,</hi> M. <hi>Edward Hanbury, Luke Ivory,</hi> M. <hi>Bazil Nicols, M. Thomas Hogsfleſh,</hi> Alderman <hi>Chambers,</hi> M. <hi>Iohn Neal,</hi> Major <hi>Barns, M. Dalliſon, M. Coppinger, M. Coſh.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <pb n="4" facs="tcp:172844:7"/>
+               <!-- PDF PAGE 121 -->
+               <head>
+                  <hi>The third Claſsis called</hi> Elthorn <hi>Claſſis to contain</hi>
+               </head>
+               <p>Norwood, Greenford, Perival, Harlington, Hayes, Northalt, Cranford, New-Brentford, Hanwell, Ruyſlip, Harefield, Ickenham, Wox<g ref="char:EOLhyphen"/>bridge, Hillingdon, Cowley, Weſt-Dravton, Harmondſworth.</p>
+               <p>
+                  <hi>Miniſter, fit to be of the third Claſſis.</hi>
+               </p>
+               <p>M. <hi>Nathaneel Giles</hi> of Ruyſlip, M. <hi>Nathan. Nicho<g ref="char:EOLhyphen"/>las</hi> of Ickenham, D. <hi>Daniel Collins</hi> of Cowley. M. <hi>Emanuel Hodges</hi> of Harmondſworth. M. <hi>Henry Aſhwood</hi> of Cranford. M. <hi>Banks</hi> of Hayes. M. <hi>Malthus</hi> of Northolt. M <hi>Clark</hi> of Hanwell. M, <hi>Terrey</hi> of Greenford. M. <hi>Bennet</hi> of New-Brent<g ref="char:EOLhyphen"/>ford. M. <hi>Read</hi> of Perivall.</p>
+               <p>
+                  <hi>Others fit to be of the third Claſſis.</hi>
+               </p>
+               <p>
+                  <hi>VVilliam Lane</hi> 
+                  <abbr>Eſq</abbr>. M. <hi>Auguſtine VVingfield,</hi> Cap. <hi>Iohn Redding, Matthew Baker, Rich. Stile,</hi> M. <hi>Tho<g ref="char:EOLhyphen"/>mas Treſwallen,</hi> M. <hi>VVilliam Atlee,</hi> M. <hi>VVilliam Munſey, M. Roger Nicholl, VVilliam Aſhley, Iohn Atlee, M. Edw. Hoard, Rob. Hill, M. Hamon, Henry Hodges</hi> 
+                  <abbr>Eſq</abbr>. <hi>Iohn Lane</hi> 
+                  <abbr>Eſq</abbr>. Cap<g ref="char:punc">▪</g> 
+                  <hi>Hen. Arundel, M. Cleere, M. Edw. Franklyn, Hugh Iennings, Iohn Iennings, Iohn Moore.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <pb n="5" facs="tcp:172844:7"/>
+               <!-- PDF PAGE 121 -->
+               <head>
+                  <hi>The fourth Claſsis called</hi> Spelthorn <hi>and</hi> Iſtlworth <hi>Claſſis to contain</hi>
+               </head>
+               <p>Littleton, Aſhford, Laleham, Shepperton, Stains, Stanwell, Sunbury, Hampton, Tuddington, Hanworth, Feltham, Eaſt-Bedford, Iſtleworth, Twickenham, Heſton.</p>
+               <p>
+                  <hi>Miniſters fit to be of the fourth Claſsis.</hi>
+               </p>
+               <p>
+                  <hi>M Richardſon</hi> of Stanwell. <hi>M. Garret</hi> of Littleton. <hi>M. Jemmat</hi> of Iſtleworth. <hi>M. VVillis</hi> of Twicken<g ref="char:EOLhyphen"/>ham.</p>
+               <p>
+                  <hi>Others fit to be of the fourth Claſsis.</hi>
+               </p>
+               <p>
+                  <hi>Iohn Brown</hi> 
+                  <abbr>Eſq</abbr>. <hi>Iohn Morris</hi> 
+                  <abbr>Eſq</abbr>. <hi>Richard Down<g ref="char:EOLhyphen"/>ton</hi> 
+                  <abbr>Eſq</abbr>. <hi>Thomas Smithſhy</hi> 
+                  <abbr>Eſq</abbr>. <hi>Daniel Proctour</hi> 
+                  <abbr>Eſq</abbr>. <hi>M. Henry Cowes, M. Edmund Sears, M. Tho. VVillis, M. VVilliam Smith, M. Richard Smith, M. Daniel Enderby.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Decemb.</hi> 30. 1647.</date>
+                  </dateline>
+               </opener>
+               <p>AT the Committee of Lords and Commons, appointed by Ordinance of Parliament to approve the Claſſis returned.</p>
+               <p>Reſolved, <hi>That the Miniſters and others above-named, are approved to be the four Claſsis for the County of Middleſex.</hi>
+               </p>
+               <closer>
+                  <signed>Gilbert Gerard.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
